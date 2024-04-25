@@ -1,0 +1,7 @@
+openai 
+pypdf
+pinecone-client 
+langchain 
+langchain-community
+tiktoken
+Requests
